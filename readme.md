@@ -1,1 +1,1 @@
-# URL app react: http://54.161.53.228/      URL app node: http://ec2-54-161-53-228.compute-1.amazonaws.com/
+# URL app react: http://54.161.53.228/      URL app node: http://ec2-54-161-53-228.compute-1.amazonaws.com/login
